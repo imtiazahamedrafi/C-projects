@@ -1,11 +1,12 @@
 #include<stdio.h>
 
 int main()
-{int b;
-printf("***NUMBER PRINT SIMPLE CODE*** \n***BY IMTIAZ AHAMED RAFI***\n\n\n");
-printf("enter the amount you wanted to print (only integer number)\n ");
-scanf("%d",&b);
-printf("you have entered %d numbers to print \n",b);
+{
+    long int b;
+    printf("***NUMBER PRINT SIMPLE CODE*** \n***BY IMTIAZ AHAMED RAFI***\n\n\n");
+    printf("enter the amount you wanted to print (only integer number)\n ");
+    scanf("%ld",&b);
+    printf("you have entered %ld numbers to print \n",b);
 if ( b>1){
 
     for  (int a=1; a<=b; a++)
