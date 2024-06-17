@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @imtiazahamedrafi
-- I'm a beginner.
-- 👀 I’m interested in ... coding 
-- 🌱 I’m currently learning ...c
+- I'm a student beside study i am a font end web developer and basic programing.
+- 👀 I’m interested in ... Gaming
+- 🌱 I’m currently learning ...Bash
 - 💞️ I’m looking to collaborate on ... rockstar games 
 - 📫 How to reach me ..., just visit my website 
 <!---
