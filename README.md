@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @imtiazahamedrafi
-- I'm a student beside study i am a font end web developer and basic programing.
+- I'm a student beside study i am a font end web developer and new programer.
 - 👀 I’m interested in ... Gaming
 - 🌱 I’m currently learning ...Bash
 - 💞️ I’m looking to collaborate on ... rockstar games 
